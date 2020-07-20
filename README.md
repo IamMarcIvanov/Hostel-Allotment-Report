@@ -10,3 +10,5 @@ Build a mobile application for the Hostel Allotment problem:
 
 Currently Hostel Allotment Report only contains the Problem Overview
 While the images folder contains all the wireframes
+
+Hostel Allotment Report 1 - is a simplified, more chronologically elaborated version of the first file.
