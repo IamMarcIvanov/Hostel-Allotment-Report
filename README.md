@@ -12,3 +12,5 @@ Currently Hostel Allotment Report only contains the Problem Overview
 While the images folder contains all the wireframes
 
 Hostel Allotment Report 1 - is a simplified, more chronologically elaborated version of the first file.
+
+After a whole lot of crap I was able to finally submit it, and sir gave me 13/15 and I have no clue why
